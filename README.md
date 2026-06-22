@@ -95,7 +95,7 @@ The leave request section uses **localStorage** so that approved or denied leave
 
 ## Project Structure
 
-```bash
+```bash id="b91z3x"
 src/
 │
 ├── components/
@@ -117,21 +117,21 @@ src/
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/LCA-Course1-Core-Project.git
+```bash id="68x8q2"
+git clone https://github.com/Ayema-Mxeli/LCA-Course1-Core-Project-ModernTech-Solutions-HR-System-.git
 ```
 
 2. Open the project folder in VS Code.
 
 3. Install dependencies:
 
-```bash
+```bash id="2ixtqf"
 npm install
 ```
 
 4. Run the development server:
 
-```bash
+```bash id="z5v35v"
 npm run dev
 ```
 
@@ -141,7 +141,7 @@ npm run dev
 
 ## Employee Data Included
 
-The project contains 15 dummy employee records, including employees from departments such as:
+The project contains 15 dummy employee records across departments such as:
 
 * Development
 * HR
@@ -150,6 +150,24 @@ The project contains 15 dummy employee records, including employees from departm
 * Support
 * Sales
 * Finance
+
+Example employees included in the project:
+
+* Iva James
+* Bianca Yengwa
+* Elam Willians
+* Lisa Johns
+* Qhayiya Mxeli
+* Naledi Manentsa
+* Mimi Ngulube
+* Sophia Hendrix
+* Angelista Ndlovu
+* Akhile Kumar
+* Siyolise Nkosi
+* Avela James
+* Lihle Mthembu
+* Ayanda Titi
+* Alizwa Paul
 
 ---
 
@@ -182,6 +200,15 @@ If the project were expanded further, the following features could be added:
 
 ---
 
+## GitHub Repository
+
+Repository link:
+https://github.com/Ayema-Mxeli/LCA-Course1-Core-Project-ModernTech-Solutions-HR-System-
+
+---
+
 ## Conclusion
 
 The ModernTech HR Management System successfully meets the project brief by providing a responsive HR dashboard with employee management, payroll calculations, payslip generation, leave management, and attendance tracking. The use of Vue.js, Bootstrap, and localStorage makes the project interactive, user-friendly, and suitable as a front-end HR system prototype.
+
+
